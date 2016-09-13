@@ -2,9 +2,9 @@ Pod::Spec.new do |s|
   s.name        = "SwiftyJSON"
   s.version     = "2.3.2"
   s.summary     = "SwiftyJSON makes it easy to deal with JSON data in Swift"
-  s.homepage    = "https://github.com/SwiftyJSON/SwiftyJSON"
+  s.homepage    = "https://github.com/mrdumnin/SwiftyJSON"
   s.license     = { :type => "MIT" }
-  s.authors     = { "lingoer" => "lingoerer@gmail.com", "tangplin" => "tangplin@gmail.com" }
+  s.authors     = { "Suchon Dumnin" => "mrdumnin@gmail.com", "tangplin" => "tangplin@gmail.com" }
 
   s.requires_arc = true
   s.osx.deployment_target = "10.9"
